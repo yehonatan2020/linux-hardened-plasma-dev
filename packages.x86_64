@@ -134,7 +134,6 @@ qtdbusextended
 qtmpris
 reflector
 reiserfsprogs
-rygel
 rp-pppoe
 rpm
 sdparm
@@ -176,7 +175,7 @@ xfsprogs
 xl2tpd
 yajl
 yaml-cpp
-youtube-dl
+yt-dlp
 zsh
 zsh-autosuggestions
 zsh-completions
@@ -351,6 +350,9 @@ vim
 yarn
 zip
 
+#openssl
+openssl-1.1
+
 #Extras
 python-pyudev
 python-libevdev
@@ -412,8 +414,8 @@ cups
 xsane
 
 #Office 
-wps-office
-ttf-wps-fonts
+#wps-office
+#ttf-wps-fonts
 
 #Fonts
 adobe-source-serif-fonts
